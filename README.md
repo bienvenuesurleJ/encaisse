@@ -1,7 +1,9 @@
 # Encaissé
 
-Page de départ. L'application se construit à partir d'ici.
+Bureau de vente pour un service que tu peux vraiment livrer.
 
-Bot de vente pour un vrai service : vitrine à partager, messages, devis, relances, et suivi de l'argent réellement encaissé via ton lien de paiement (Lydia, PayPal, Stripe, virement).
+Tu décris l'offre, tu colles ton lien de paiement (Lydia, PayPal, Stripe, virement), tu copies le lien de ta page et tu le postes. Le bot prépare le premier message, le devis et les relances. Tu les envoies toi-même. Tu notes un client comme payé seulement quand l'argent est arrivé sur ton compte.
 
-Ce dépôt ne prend pas d'argent et ne promet aucun revenu.
+Encaissé ne prend pas d'argent, n'envoie rien tout seul, et ne promet aucun revenu.
+
+Les clients et les montants restent dans le navigateur. Télécharge la sauvegarde dans Offre avant de changer d'appareil.
